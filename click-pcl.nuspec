@@ -9,7 +9,7 @@
     <authors>AutomationDirect.com, Inc.</authors>
     <projectUrl>https://support.automationdirect.com/products/clickplcs.html</projectUrl>
     <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-click-pcl/master/icons/click-pcl.png</iconUrl>
-    <copyright>2018</copyright>
+    <copyright>© 2018 AutomationDirect.com, Inc.</copyright>
     <licenseUrl>https://support.automationdirect.com/products/downloadnotes/click_eula.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
