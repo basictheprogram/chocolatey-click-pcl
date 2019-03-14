@@ -26,17 +26,6 @@ $UnzipArgs = @{
 
 Get-ChocolateyUnzip @UnzipArgs
 
-#$InstallArgs = @{
-#  PackageName    = $packageName
-#  File           = Join-Path $WorkSpace "Click_Setup.exe"
-#  fileType       = 'exe'
-#  silentArgs     = '/s'
-#  validExitCodes = @(0, 3010, 1641)
-#  softwareName   = 'click-pcl*'
-#}
-
-#Install-ChocolateyInstallPackage @InstallArgs
-
 # silent install requires AutoIT
 #
 $autoitExe    = 'AutoIt3.exe'
