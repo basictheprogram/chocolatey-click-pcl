@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>click-pcl</id>
-    <version>2.30.0001</version>
+    <version>2.40.0000</version>
     <packageSourceUrl>https://github.com/basictheprogram/chocolatey-click-pcl</packageSourceUrl>
     <owners>basictheprogram</owners>
     <title>CLICK PCL</title>
     <authors>AutomationDirect.com, Inc.</authors>
     <projectUrl>https://support.automationdirect.com/products/clickplcs.html</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-click-pcl/master/icons/click-pcl.png</iconUrl>
+    <iconUrl>https://basictheprogram.github.io/chocolatey-click-pcl/icons/click-pcl.png</iconUrl>
     <copyright>© 2018 AutomationDirect.com, Inc.</copyright>
     <licenseUrl>https://support.automationdirect.com/products/downloadnotes/click_eula.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>

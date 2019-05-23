@@ -1,8 +1,8 @@
 ﻿$ErrorActionPreference = 'Stop';
 
 $packageName = $env:ChocolateyPackageName
-$url64       = 'https://ftp.automationdirect.com/pub/clicksoftware_v230.zip'
-$checksum64  = 'a681c5610e0e727065776988d49c4a97c42f0460f1469592054941a91337e905'
+$url64       = 'https://ftp.automationdirect.com/pub/clicksoftware_v240.zip'
+$checksum64  = '99af9e0977ba0111fe538f5d9665a438342290a56aef2e52f06677cf1b6f8f2f'
 $WorkSpace   = Join-Path $env:TEMP "$packageName.$env:chocolateyPackageVersion"
 
 $WebFileArgs = @{
