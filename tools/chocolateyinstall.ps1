@@ -35,8 +35,5 @@ $fileFullPath = Join-Path $WorkSpace 'Click_Setup.exe'
 Write-Debug "AutoItFile: `t$autoitFile"
 Write-Debug "FileFullPath `t$fileFullPath"
 
-$autoitProc   = Start-Process -FilePath $autoitExe -ArgumentList "$autoitFile $fileFullPath" -PassThru
+$autoitProc   = Start-ChocolateyProcessAsAdmin -FilePath $autoitExe -ArgumentList "$autoitFile $fileFullPath" -PassThru
 $autoitId     = $autoitProc.Id
-Write-Debug "autoitProc `t$autoitProc"
-Write-Debug "$autoitExe start time:`t$($autoitProc.StartTime.ToShortTimeString())"
-Write-Debug "Process ID: `t$autoitId"
