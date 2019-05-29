@@ -12,10 +12,7 @@
     <copyright>© 2018 AutomationDirect.com, Inc.</copyright>
     <licenseUrl>https://support.automationdirect.com/products/downloadnotes/click_eula.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
     <docsUrl>https://cdn.automationdirect.com/static/manuals/index.html</docsUrl>
-    <!--<mailingListUrl></mailingListUrl>-->
-    <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>CLICK PCL programming </tags>
     <summary>CLICK Programming software</summary>
     <description>This programming software is a user friendly tool designed to allow quick programming of CLICK PLCs.
